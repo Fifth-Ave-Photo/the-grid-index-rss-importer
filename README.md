@@ -1,2 +1,2 @@
-# the-grid-index-grid-index-rss-importer
+# the-grid-index-rss-importer
 Grid Index RSS Importer — plugin
